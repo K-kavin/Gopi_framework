@@ -15,5 +15,8 @@ public class First_program
 		System.out.println(l);
 		l.add(1,"F");
 		System.out.println(l);
+		//new imple
+		l.add("gopi");
+		System.out.println(l);
 	}
 }
